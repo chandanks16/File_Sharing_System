@@ -1,4 +1,4 @@
-# File-Sharing-System
+# File_Sharing_System
 
 ## **Team Members:**
 | **Name**              | **SRN**       |
@@ -18,12 +18,12 @@ Secure File Sharing P2P application. Developed using SpringMVC framework, built 
 ### To Run the Project 
  - Git Clone The Repository 
  ```
- git clone https://github.com/yoyozaemon/File-Sharing-System.git 
+ git clone https://github.com/yoyozaemon/File_Sharing_System.git 
  ```
  
  - Change the Current Directory
  ```
- cd File-Sharing-System
+ cd File_Sharing_System
  ```
  - Install the Maven Package for the Project
  ```
